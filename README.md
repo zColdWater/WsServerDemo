@@ -8,6 +8,6 @@ WsClient: https://github.com/zColdWater/WsClientDemo/tree/master
 
 # Usage
 
-npm install 
+npm install   
 node app.js 
 
